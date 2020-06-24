@@ -1,1 +1,3 @@
-# my_deep_rl_project
+# Author @Abdoulaye
+# This project contains my project on 
+# Deep Reinforcement learning
