@@ -1,3 +1,3 @@
-# Author @Abdoulaye
-# This project contains my project on 
-# Deep Reinforcement learning
+# Author @Vonewman
+# This project contains my code on 
+# Deep Reinforcement learning stuff.
